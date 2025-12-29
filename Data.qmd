@@ -30,7 +30,7 @@ Adding the libraries and data files:
 
 ```{r}
 
-
+library(tidyr)
 library(dplyr)
 
 ```
