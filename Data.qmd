@@ -23,3 +23,15 @@ execute :
   cache: true
 ---
 
+
+# 0. Data
+
+Adding the libraries and data files:
+
+```{r}
+
+
+library(dplyr)
+
+```
+
