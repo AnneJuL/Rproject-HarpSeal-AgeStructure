@@ -1,0 +1,25 @@
+---
+output: html_document
+title: "Age structure analysis in harp seal"
+author: "Anne Ju Laberge, M. Sc. Student"
+date: "2026"
+format:
+  html:
+    code-fold: true
+    code-tools: true
+    code-link: true
+    code-summary: "Show the code"
+    theme: cosmo
+    embed-resources: true
+    self-contained: true
+    toc-depth: 5
+    toc: true
+editor: visual
+editor_options:
+   chunk_output_type: console
+execute :
+  warning : false
+  error : true
+  cache: true
+---
+
