@@ -30,8 +30,13 @@ Adding the libraries and data files:
 
 ```{r}
 
-library(tidyr)
+library(tidyr) # # for data manip
 library(dplyr)
+library(ggplot2) # data visualization and graphs
+library(stringr) 
+library(lubridate) # to play with date columns
+library(tidyverse)
+
 library(lme4)
 library(brms)
 
